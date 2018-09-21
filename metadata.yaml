@@ -1,0 +1,26 @@
+_repo: What-the-White-Race-May-Learn-from-the-Indian_53532
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, George Wharton
+    alias: James, G. Wharton (George Wharton)
+    birthdate: 1858
+    deathdate: 1923
+    gutenberg_agent_id: '892'
+    url: http://www.gutenberg.org/2009/agents/892
+description: ''
+gutenberg_issued: '2016-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53532'
+  lccn: 08017541
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Indians of North America'
+- GITenberg
+title: What the White Race May Learn from the Indian
+url: http://www.gutenberg.org/ebooks/53532
